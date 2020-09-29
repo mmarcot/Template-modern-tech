@@ -1,0 +1,61 @@
+body {
+	font-family: Lato, Helvetica, Arial, "sans-serif";
+}
+
+content {
+	font-family: Roboto, Helvetica, Arial, "sans-serif";
+}
+
+#nav_contact {
+	color: #8B8B8B;
+	background-color: #181e26;
+	padding: 5px;
+}
+
+#nav_contact a {
+	color: #8B8B8B;
+	margin-left: 10px;
+}
+
+#nav_contact a:hover {
+	color: white;
+}
+
+
+#nav_logo {
+	color: white;
+	background-color: #252d3b;
+}
+
+
+#navbar_main {
+	color: white;
+	background-color: #179e83;
+}
+
+
+.nav-link {
+	width: 100%;
+	color: white;
+	text-transform: uppercase;
+}
+
+.nav-link:hover {
+	color: white;
+	background-color: #148770;
+}
+
+
+.pre-footer {
+	color: white;
+	background-color: #252D3B;
+}
+
+.footer {
+	color: #8B8B8B;
+	background-color: #181e26;
+}
+
+.footer a {
+	color: #8B8B8B;
+}
